@@ -134,3 +134,5 @@ EXPLAIN ANALYZE SELECT * FROM visits where vet_id = 2;
 -- TO Be 
 
 EXPLAIN ANALYZE SELECT vet_id FROM visits where vet_id = 2;
+
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
