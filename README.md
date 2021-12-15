@@ -10,7 +10,7 @@ This is a project that uses a relational database to create the data structure f
 - Visits
 
 
-[screenshot](./diagram.png)
+![screenshot](./diagram.png)
 
 ## Built With
 
