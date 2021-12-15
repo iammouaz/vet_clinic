@@ -9,6 +9,9 @@ This is a project that uses a relational database to create the data structure f
 - Clinic employees
 - Visits
 
+
+![screenshot](./diagram.png)
+
 ## Built With
 
 - PostgreSQL
